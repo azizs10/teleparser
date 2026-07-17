@@ -21,4 +21,7 @@ An asynchronous Python Telegram bot that monitors websites for custom products, 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/azizs10/teleparser.git](https://github.com/azizs10/teleparser.git)
-   cd your-repo-name
+   cd teleparser
+## Run the main.py file:
+   ```bash
+   python main.py
